@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Applied Data Science Capstone Project
+To develope a recommender system for restaurent managers to suggest a best suitable place for Ice-cream shop.
